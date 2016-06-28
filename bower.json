@@ -1,0 +1,28 @@
+{
+  "name": "ng.tab",
+  "version": "1.0.0",
+  "keywords": ["semantic-ui", "tab"],
+  "main": ["dist/ngTab.js"],
+  "ignore": [
+    "bower_components",
+    "node_modules",
+    "spec",
+    "src",
+    "vendor",
+    "Gruntfile.js",
+    "karma.conf.coffee",
+    "package.json",
+    "screenshot.png"
+  ],
+  "authors": [
+      {
+          "name": "Miller Augusto S. Martins",
+          "email": "miller.augusto@gmail.com",
+          "homepage": "http://br.linkedin.com/pub/miller-augusto/2a/38b/832/"
+      }
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:miamarti/Semantic-UI.ngTab.git"
+  }
+}
