@@ -11,6 +11,8 @@ Semantic-UI Tab - AngularJS
   <img src="https://img.shields.io/bower/v/bootstrap.svg">
 </p>
 
+<img src="https://c6.staticflickr.com/8/7341/28163429221_493b20f4ec_z.jpg" width="640" height="196" alt="Semantic-UI.ngTab">
+
 ## Dependencies
 * AngularJS
 
