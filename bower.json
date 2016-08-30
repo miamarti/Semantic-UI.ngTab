@@ -1,6 +1,6 @@
 {
-  "name": "ng.tab",
-  "version": "1.0.0",
+  "name": "ng-tab",
+  "version": "1.0.1",
   "keywords": ["semantic-ui", "tab"],
   "main": ["dist/ngTab.js"],
   "ignore": [
